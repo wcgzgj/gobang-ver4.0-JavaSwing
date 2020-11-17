@@ -6,17 +6,17 @@
 
 # 游戏截图
 
-![image-20201020000241868](../../../../../Pictures/typora/20201020001204.png)
+![游戏界面1.jpg](https://i.loli.net/2020/11/17/94mCkUJOtiw7FYS.jpg)
 
-![image-20201020000131533](https://gitee.com/faro/images/raw/master/img/20201020001203.png)
+![游戏界面2 .jpg](https://i.loli.net/2020/11/17/oGlYszd5kBExyIP.jpg)
 
 
 
 # 包管理
 
 > 这版游戏，包管理还是比较到位的，大致如下：
->
-> > ![image-20201020000112734](../../../../../Pictures/typora/20201020001202.png)
+> 
+> ![包管理.jpg](https://i.loli.net/2020/11/17/kNeI2CmPfLzMHOK.jpg)
 
 
 
@@ -25,6 +25,8 @@
 > 因为Java swing蛋疼到没有办法自己导出可执行文件，只能寄希望于第三方软件
 >
 > 怎奈何 jar2exe我用了半天，没整出来可执行文件（总是和jre有关），所以想运行的话，就把项目clone下来，在idea运行把（Eclipse也行，但是要设置一下，具体教程可以问度娘）
+> 
+> 导入项目以后 选择 start包 下的BootFrame ，然后运行即可
 
 
 
