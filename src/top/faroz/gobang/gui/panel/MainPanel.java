@@ -1,7 +1,6 @@
 package top.faroz.gobang.gui.panel;
 
 import javax.swing.*;
-import java.awt.*;
 
 /**
  * @ClassName MainPanel

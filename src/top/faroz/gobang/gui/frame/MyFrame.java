@@ -1,7 +1,6 @@
 package top.faroz.gobang.gui.frame;
 
 import javax.swing.*;
-import java.awt.*;
 
 /**
  * @ClassName MyFrame

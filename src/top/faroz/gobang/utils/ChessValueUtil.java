@@ -1,9 +1,7 @@
 package top.faroz.gobang.utils;
 
-import javafx.geometry.Pos;
 import top.faroz.gobang.domain.ChessPad;
 import top.faroz.gobang.domain.Position;
-import top.faroz.gobang.gui.panel.ChessPanel;
 
 import java.util.ArrayList;
 import java.util.HashMap;

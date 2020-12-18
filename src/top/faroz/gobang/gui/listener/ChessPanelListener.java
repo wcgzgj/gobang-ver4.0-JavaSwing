@@ -1,20 +1,15 @@
 package top.faroz.gobang.gui.listener;
 
-import sun.plugin2.message.Message;
 import top.faroz.gobang.chessbot.Ai;
 import top.faroz.gobang.domain.ChessPad;
 import top.faroz.gobang.domain.Position;
-import top.faroz.gobang.gui.frame.MainFrame;
 import top.faroz.gobang.gui.panel.ButtonPanel;
 import top.faroz.gobang.gui.panel.ChessPanel;
 import top.faroz.gobang.gui.panel.MainPanel;
-import top.faroz.gobang.gui.panel.PausePanel;
 import top.faroz.gobang.utils.ChessUtil;
-import top.faroz.gobang.utils.ChessValueUtil;
 import top.faroz.gobang.utils.PositionUtil;
 import top.faroz.gobang.utils.ShowResultUtil;
 
-import javax.swing.*;
 import java.awt.event.*;
 import java.util.List;
 

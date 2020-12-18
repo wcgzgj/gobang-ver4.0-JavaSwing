@@ -37,8 +37,6 @@ public class ChessPanel extends JPanel {
         //为界面添加鼠标监听器
         //这样就能响应并绘制棋子
         this.addMouseListener(new ChessPanelListener());
-
-        // this.setBackground(Color.CYAN);
     }
 
     public void paint(Graphics g) {
@@ -104,7 +102,6 @@ public class ChessPanel extends JPanel {
             g2.setStroke(new BasicStroke(2.f));
             int x=drawPositipn.x-chessBorder;
             int y=drawPositipn.y-chessBorder;
-            // System.out.println("绘白子位置是："+x+" , "+y);
             g2.fillOval(x,y,chessBorder*2,chessBorder*2);
         }
     }

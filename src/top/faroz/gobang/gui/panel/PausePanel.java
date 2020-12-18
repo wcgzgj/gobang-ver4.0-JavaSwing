@@ -36,9 +36,6 @@ public class PausePanel extends JPanel {
         g2.setColor(Color.CYAN);
         g2.drawString("欢迎来到FARO_Z的五子棋",160,300);
         g2.drawString("请选择模式   并点击开始",180,400);
-
-        // tip.setFont(font);
-        // this.add(tip,BorderLayout.CENTER);
     }
 
 }
