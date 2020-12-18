@@ -103,6 +103,8 @@ public class ChessPanel extends JPanel {
             int x=drawPositipn.x-chessBorder;
             int y=drawPositipn.y-chessBorder;
             g2.fillOval(x,y,chessBorder*2,chessBorder*2);
+            g2.setColor(Color.BLACK);
+            g2.drawOval(x,y,chessBorder*2,chessBorder*2);
         }
     }
 
